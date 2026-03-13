@@ -3,7 +3,7 @@
 # 👨‍💻 Karima Hanani
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Aspiring+Software+Developer+from+Morocco;Full+Stack+Developer;Spring+Boot+%2B+Angular;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Aspiring+Software+Developer+from+Morocco;Full+Stack+Developer;Always+Learning+New+Things)
 
 </div>
 
